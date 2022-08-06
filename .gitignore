@@ -1,0 +1,10 @@
+.env
+/.vscode
+/.idea
+.package-lock.json
+.DS_Store
+api/db-certs/*.pem
+node_modules/
+dist/
+yarn.lock
+dev_db
