@@ -43,7 +43,8 @@
     "sqlite3": "^5.0.10",
     "@nestjs/swagger": "^4.7.5",
     "swagger-ui-express": "^4.3.0",
-    "swagger-jsdoc": "6.1.0"
+    "swagger-jsdoc": "6.1.0",
+    "@nestjs/serve-static": "3.0.0"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.0.0",
