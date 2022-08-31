@@ -1,4 +1,4 @@
-# Todo API with NestJS & Sequelize ORM
+# Todo API with NestJS, JWT Auth & Sequelize ORM
 
 ## Running the Todo NestJS API app
 
